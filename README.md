@@ -1,23 +1,36 @@
 # 시계열 및 머신러닝 교재
 
-본 교재에서 사용하는 모든 데이터와 코드는 
+본 교재에서 사용하는 모든 데이터와 코드는 아래 링크를 통해 다운로드 받아 사용할 수 있습니다.
 
 [전체 코드 및 데이터](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
+다운로드 받은 이후 아래 "코드 실행 주의사항"을 참고하여 실습을 진행하시면 됩니다.. 교재 각 목차에 해당하는 코드를 다운로드 받기 위해서는 아래 "목차 및 해당 파트 코드"의 링크를 참고해주시기 바랍니다.
+
 ## 코드 실행 주의사항
 
-### 작업 공간 설정
-
-```CLI
-python main.py
-```
+코드를 원활하게 실행하기 위해서는 데이터의 위치 혹은 작업 공간을 올바르게 설정해야 합니다.
 
 ### 데이터 세팅
 
-본 교재에서 사용되는 데이터는 모두 아래 링크에 저장되어 있습니다. <br>
+본 교재에서 사용되는 데이터는 모두 아래 링크에 저장되어 있습니다. 아래 'Data' 폴더를 다운로드 받아 실습을 진행할 수 있습니다. <br>
 
 [데이터](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Data)
 
+다운로드 받은 데이터 폴더 혹은 데이터를 작업공간에 위치시켜주시기 바랍니다.
+
+### 작업 공간 설정
+
+아래 코드는 R script가 저장된 폴더를 작업공간으로 설정해주는 코드입니다. 다음과 같이 작업공간을 설정할 경우, 작업공간 안에 사용할 데이터를 위치시켜야 합니다.
+
+```CLI
+setwd(dirname(rstudioapi::getSourceEditorContext()$path))
+```
+
+아래와 같이 "./Data/" 폴더를 작업공간으로 설정하여 사용해야 할 데이터를 일일이 옮기지 않아도 데이터를 불러올 수 있습니다.
+
+```CLI
+setwd("..../Data/")
+```
 
 ## 목차 및 해당 파트 코드
 1. [시계열의 정상성 및 시계열 분석의 기초]((https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch1%20and%20Ch2)) <br>
