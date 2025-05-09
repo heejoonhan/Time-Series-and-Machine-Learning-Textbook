@@ -1,4 +1,4 @@
-# 시계열 및 머신러닝 교재
+# [머신러닝과 경제예측] 교재
 
 저자 : 한희준 ([@heejoonhan](https://github.com/heejoonhan)) <br>
 
@@ -48,13 +48,13 @@ os.chdir('..../Data/')
 
 3. 머신러닝 소개 및 지도학습 <br>
 
-4. [선형 회귀 모형과 국소 추정](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch4%20to%20Ch6) <br>
+4. [선형 회귀 모형과 축소 추정](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch4%20to%20Ch6) <br>
 
-5. [의사결정나무 기반 방법](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch4%20to%20Ch6) <br>
+5. [의사결정나무 기반 모형](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch4%20to%20Ch6) <br>
 
 6. [인공신경망 기반 모형](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch4%20to%20Ch6) <br>
 
-7. [사례 연구 : 미국 인플레이션 예측 및 한국 주식시장 변동성 예측](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch7%20US%20inflation) <br>
+7. [종합실습 : 머신러닝을 이용한 인플레이션 예측과 관련 이슈](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch7%20US%20inflation) <br>
 
 8. [벡터자기회귀모형](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch8%20and%20Ch9) <br>
 
