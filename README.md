@@ -2,6 +2,8 @@
 
 저자 : 한희준 [@heejoonhan](https://github.com/heejoonhan) <br>
 
+## 안내
+
 본 교재에서 사용하는 모든 데이터와 코드는 아래 링크를 통해 다운로드 받아 사용할 수 있습니다.
 
 [전체 코드 및 데이터](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
