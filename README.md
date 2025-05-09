@@ -1,6 +1,6 @@
 # 시계열 및 머신러닝 교재
 
-저자 : 한희준 [@heejoonhan](https://github.com/heejoonhan) <br>
+저자 : 한희준 ([@heejoonhan](https://github.com/heejoonhan)) <br>
 
 ## 안내
 
@@ -37,7 +37,7 @@ setwd("..../Data/")
 ```
 
 ## 목차 및 해당 파트 코드
-1. [시계열의 정상성 및 시계열 분석의 기초]((https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch1%20and%20Ch2)) <br>
+1. [시계열의 정상성 및 시계열 분석의 기초](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch1%20and%20Ch2) <br>
 
 2. [시계열 예측 절차 및 평가 방법](https://github.com/heejoonhan/Time-Series-and-Machine-Learning-Textbook/tree/main/%EC%BD%94%EB%93%9C%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Ch1%20and%20Ch2) <br>
 
